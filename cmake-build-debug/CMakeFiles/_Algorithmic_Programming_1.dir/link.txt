@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/_Algorithmic_Programming_1.dir/main.cpp.o -o _Algorithmic_Programming_1 
